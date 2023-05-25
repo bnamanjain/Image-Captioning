@@ -2,7 +2,7 @@
 Here, My goal was to make an AI tool which would use Image-Captioning and give out the caption related to the image. I have used a pre-trained model from HuggingFace.com. Refer read_me for more. Thanks
 It uses both Natural Language Processing and Computer Vision to generate the captions.
 
-sample dataset : 
+sample dataset : https://drive.google.com/drive/folders/1sAkpL2VBDCVWOz-ogbvxEZkYCHfGH9PC?usp=share_link
 
 First I went to google/youtube/huggingface.com, where I wanted to know what libraries to be used. On google/YT i got around 2-3 options:
   a. CNN+RNN
