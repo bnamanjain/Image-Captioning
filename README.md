@@ -13,6 +13,9 @@ I have trained this dataset for only aroudn 100 images and captions pairs. I sho
 
 So, I spent around 4-5 hours reading about the difference in performance among all of these and I found the respective models as well, which were using CNN/Transformers. CNN have been ruling th space of Computer vision for almost all the time now, but after transformers came in it changed the game entirely, how ? Lets note down some pointers :
 
+Sample Output:
+![image](https://github.com/bnamanjain/Image-Captioning/assets/134503314/18b63ba0-94c1-4501-abd0-fb9293275c8e)
+
  
 Steps : 
 1. checking what libraires to be used
